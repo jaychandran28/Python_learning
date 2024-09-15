@@ -1,0 +1,7 @@
+#print(type (5+5))
+#print(5+5)
+#print(5/5)
+#print(type(4/6))
+#print(4*5)
+#print(1**2)
+#print(6%4)
